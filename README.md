@@ -1,8 +1,15 @@
-nome = input ("Qual seu nome?")
-print ("seu nome é" ,nome)
+# Nome e Idade em Python
 
-idade = input ("Qual sua idade?")
-print ("Sua idade é" , idade)
+Projeto simples feito em Python para praticar:
 
-print ("Olá" , nome , "você tem" ,idade , "anos") 
-       
+- input
+- print
+- variáveis
+
+O programa:
+- pergunta o nome
+- pergunta a idade
+- mostra as informações na tela
+
+## Tecnologias
+- Python
